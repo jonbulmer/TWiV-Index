@@ -126,15 +126,34 @@
 	</eposode>		
 	<eposoid>
 		600
-		<time>
-			00:00:00
-			<tag>
-				x 
-			</tag>
-			<description>
-				x
-			</description>
-		</time>	
+		<meta>
+			<links>
+				<link>
+					
+				</link>
+				<link>
+					
+				</link>
+				<link>
+					
+				</link>
+				<link>					
+					
+				</link>
+				<link>					
+					
+				</link>
+			</links>			
+			<time>
+				00:00:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>	
+		</meta>
 	</eposode>	
 	<eposoid>
 		601: Das coronavirus with Christian Drosten
