@@ -3784,28 +3784,16 @@
 	<episode>
 		620: Antibodies and T cells in COVID-19
 		<meta>
-			*
+			29052020, Vincent Racaniello, Rich Condit, Brianne Barker, Jon Yewdell
 			<links>
 				<link>
-					*
+					T cell targets in COVID-19 patients (Cell) 4:42
 				</link>
 				<link>
-					*
+					SARS-CoV-2 seroconversion in humans (Nat Med) 55:36
 				</link>
 				<link>
-					*
-				</link>
-				<link>					
-					*
-				</link>
-				<link>					
-					*
-				</link>
-				<link>	
-					*
-				</link>
-				<link>	
-					*
+					Convergent antibody responses to SARS-CoV-2 infection (bioRxiv) 1:05:13
 				</link>
 			</links>
 			<time>
@@ -3817,6 +3805,492 @@
 					x
 				</description>
 			</time>	
+			<time>
+				00:02:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:03:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:04:42
+				<tag>
+					Vincent Racaniello, Paper
+				</tag>
+				<description>
+					T cell targets in COVID-19 patients (Cell)
+				</description>
+			</time>				
+			<time>
+				00:08:00
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					T Cell epitope
+				</description>
+			</time>				
+			<time>
+				00:09:45
+				<tag>
+					Jon Yewdell 
+				</tag>
+				<description>
+					for a IGg responce it has to have T cells
+				</description>
+			</time>				
+			<time>
+				00:12:00
+				<tag>
+					Jon Yewdell, Rich Condit
+				</tag>
+				<description>
+					When the host has been infected we have a B cell that has a receptor for the antigen
+				</description>
+			</time>				
+			<time>
+				00:13:15
+				<tag>
+					Jon Yewdell 
+				</tag>
+				<description>
+					Darwinin selection of B cell in the lymph node
+				</description>
+			</time>		
+			<time>
+				00:15:45
+				<tag>
+					Jon Yewdell, Brianne Barker, Rich Condit
+				</tag>
+				<description>
+					How vaccine will work with MHC
+				</description>
+			</time>	
+			<time>
+				00:17:25
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					Class 2 has 2 possible routes endogenous and exogenous 
+				</description>
+			</time>						
+			<time>
+				00:17:50
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					Pathway by Laurence Eisenlohr, something like class 1 works for class 2
+				</description>
+			</time>	
+			<time>
+				00:18:30
+				<tag>
+					Brianne Barker
+				</tag>
+				<description>
+					dead cells being picked up by phagocytosis
+				</description>
+			</time>	
+			<time>
+				00:19:45
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					Cross dressing exposed to gamma interferon
+				</description>
+			</time>					
+			<time>
+				00:23:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:24:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:26:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:28:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:31:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:31:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:34:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:35:55
+				<tag>
+					Brianne Barker, Jon Yewdell
+				</tag>
+				<description>
+					How MHC class 2 bindes compared to MHC class 1
+				</description>
+			</time>				
+			<time>
+				00:37:00
+				<tag>
+					Vincent Racaniello, Jon Yewdell
+				</tag>
+				<description>
+					CD4 70% bindes CD8 100% is it suprising it is not 100% for both?
+				</description>
+			</time>				
+			<time>
+				00:39:50
+				<tag>
+					Jon Yewdell 
+				</tag>
+				<description>
+					The money figure is figure 6
+				</description>
+			</time>	
+			<time>
+				00:41:15
+				<tag>
+					Vincent Racaniello, Jon Yewdell 
+				</tag>
+				<description>
+					Find epitopes in unexposed indiviuals
+				</description>
+			</time>	
+			<time>
+				00:41:50
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					T cells do not require a perfect match
+				</description>
+			</time>								
+			<time>
+				00:44:55
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					We are not sure what the outcome from pre exiting T cell exposure is
+				</description>
+			</time>				
+			<time>
+				00:46:00
+				<tag>
+					Brianne Barker
+				</tag>
+				<description>
+					Must patients where non hospilised, it whould be interesting to find out about hospilised patients.
+				</description>
+			</time>				
+			<time>
+				00:48:00
+				<tag>
+					Vincent Racaniello, Jon Yewdell
+				</tag>
+				<description>
+					Previous infection from common coronavirus not protective to SARS-CoV-2?
+				</description>
+			</time>		
+			<time>
+				00:49:35
+				<tag>
+					Jon Yewdell 
+				</tag>
+				<description>
+					We know so little at this point
+				</description>
+			</time>	
+			<time>
+				00:49:45
+				<tag>
+					Rich Condit, Jon Yewdell 
+				</tag>
+				<description>
+					A natural reaction is a full immune responce
+				</description>
+			</time>				
+			<time>
+				00:50:30
+				<tag>
+					Rich Condit, Jon Yewdell 
+				</tag>
+				<description>
+					A natural responce can't have an antibody responce with out a helper responce
+				</description>
+			</time>				
+			<time>
+				00:53:15
+				<tag>
+					Jon Yewdell
+				</tag>
+				<description>
+					Antibodies are better than CD4 and CD8 at prtection but you need them all for complete clearence
+				</description>
+			</time>				
+			<time>
+				00:55:36
+				<tag>
+					Vincent Racaniello, Paper
+				</tag>
+				<description>
+					SARS-CoV-2 seroconversion in humans (Nat Med)
+				</description>
+			</time>				
+			<time>
+				00:56:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				00:58:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:01:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:04:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:05:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:10:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:12:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:13:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:14:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:16:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:17:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:19:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:24:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:25:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:26:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:28:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:32:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:35:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:36:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:39:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:42:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
+			<time>
+				01:46:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>				
 		</meta>
 	</episode>			
 	<episode>
