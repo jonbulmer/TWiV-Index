@@ -848,7 +848,7 @@
 	<episode>
 		626: Ralph Baric and fancy ferrets
 		<meta>
-			*
+			12062020, 14062020, Vincent Racaniello, Dickson Despommier, Alan Dove, Rich Condit, Brianne Barker, Daniel Griffin, Chuck Knirsch, Ralph Baric
 			<links>
 				<link>
 					*
@@ -873,75 +873,84 @@
 				</link>
 			</links>
 			<time>
-				00:00:00
+				00:00:50
 				<tag>
-					x 
+					Daniel Griffin
 				</tag>
 				<description>
-					x
+					Need sleep
 				</description>
 			</time>			
+			<time>
+				00:01:30
+				<tag>
+					Daniel Griffin
+				</tag>
+				<description>
+					PBS frontline
+				</description>
+			</time>	
 			<time>
 				00:02:00
 				<tag>
-					x 
+					Daniel Griffin
 				</tag>
 				<description>
-					x
+					Observations v data
+				</description>
+			</time>				
+			<time>
+				00:03:45
+				<tag>
+					Daniel Griffin 
+				</tag>
+				<description>
+					Difference based on race, Black Americans 61 White Americans 22 per 100000 deaths.
 				</description>
 			</time>			
 			<time>
-				00:04:00
+				00:05:11
 				<tag>
-					x 
+					Daniel Griffin 
 				</tag>
 				<description>
-					x
+					Dying a twice the population share
 				</description>
 			</time>			
 			<time>
-				00:05:00
+				00:06:30
 				<tag>
-					x 
+					Daniel Griffin, Vincent Racaniello
 				</tag>
 				<description>
-					x
+					Why is this effecting different races differently
 				</description>
 			</time>			
 			<time>
-				00:07:00
+				00:07:50
 				<tag>
-					x 
+					Daniel Griffin
 				</tag>
 				<description>
-					x
+					Paracites without boarders work
 				</description>
 			</time>			
 			<time>
-				00:08:00
+				00:09:30
 				<tag>
-					x 
+					Daniel Griffin
 				</tag>
 				<description>
-					x
-				</description>
-			</time>			
-			<time>
-				00:09:00
-				<tag>
-					x 
-				</tag>
-				<description>
-					x
+					Mask wearing being seen
 				</description>
 			</time>			
 			<time>
 				00:10:00
 				<tag>
-					x 
+					Daniel Griffin, Chuck Knirsch
 				</tag>
 				<description>
-					x
+					Not doing well in Arizona, Africa, Kenya
 				</description>
 			</time>			
 			<time>
@@ -983,32 +992,41 @@
 			<time>
 				00:19:00
 				<tag>
-					x 
+					Daniel Griffin
 				</tag>
 				<description>
-					x
+					Masks data that will reduce the R rate for good well worn masks, more infection if not worn well, masks stop droplets
 				</description>
 			</time>			
 			<time>
-				00:22:00
+				00:22:10
 				<tag>
-					x 
+					Daniel Griffin
 				</tag>
 				<description>
-					x
+					PCR issues to sort out
 				</description>
 			</time>			
 			<time>
-				00:23:00
+				00:22:45
 				<tag>
-					x 
+					Daniel Griffin 
 				</tag>
 				<description>
-					x
+					Serology testing
 				</description>
 			</time>			
 			<time>
-				00:25:00
+				00:24:20
+				<tag>
+					Vincent Racaniello, Daniel Griffin
+				</tag>
+				<description>
+					2 tests better than 1
+				</description>
+			</time>	
+			<time>
+				00:29:00
 				<tag>
 					x 
 				</tag>
