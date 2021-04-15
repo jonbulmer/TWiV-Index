@@ -851,25 +851,22 @@
 			12062020, 14062020, Vincent Racaniello, Dickson Despommier, Alan Dove, Rich Condit, Brianne Barker, Daniel Griffin, Chuck Knirsch, Ralph Baric
 			<links>
 				<link>
-					*
+					Mouse-adapted SARS-CoV-2 model (bioRxiv) 1:14:36
 				</link>
 				<link>
-					*
+					SARS-CoV-2 mRNA vaccine (bioRxiv) 1:32:36
 				</link>
 				<link>
-					*
+					ASM resources for #shutdownstem 1:55:38
 				</link>
 				<link>					
-					*
+					President Obama on sustaining momentum for change (Facebook) 1:56:52
 				</link>
 				<link>					
-					*
+					America After the Civil War (PBS) 1:59:09
 				</link>
 				<link>	
-					*
-				</link>
-				<link>	
-					*
+					Letters read on TWiV 626 25:09, 1:41:07, 2:02:35
 				</link>
 			</links>
 			<time>
@@ -1026,7 +1023,7 @@
 				</description>
 			</time>	
 			<time>
-				00:29:00
+				00:25:00
 				<tag>
 					x 
 				</tag>
@@ -1669,39 +1666,136 @@
 	<episode>
 		627: Singapore National Centre for Infectious Diseases
 		<meta>
-			*
+			12122019, 17062020, Vincent Racaniello, Leo Yee-Sin, Nancy Tee
 			<links>
 				<link>
-					*
+					National Centre for Infectious Diseases 52:46
 				</link>
 				<link>
-					*
-				</link>
-				<link>
-					*
-				</link>
-				<link>					
-					*
-				</link>
-				<link>					
-					*
-				</link>
-				<link>	
-					*
-				</link>
-				<link>	
-					*
+					National Public Health Laboratory 1:47
 				</link>
 			</links>
 			<time>
-				00:00:00
+				00:01:30
 				<tag>
-					x 
+					Vincent Racaniello
 				</tag>
 				<description>
-					x
+					Recording at the Nation Centre for Infectus Diseases in Singapore
 				</description>
 			</time>
+			<time>
+				00:01:30
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					
+				</description>
+			</time>			
+			<time>
+				00:01:40
+				<tag>
+					Vincent Racaniello, Nancy Tee
+				</tag>
+				<description>
+					Laboratory description
+				</description>
+			</time>				
+			<time>
+				00:03:00
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					Check clinical samples
+				</description>
+			</time>				
+			<time>
+				00:03:45
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					Virus isolation and PCR for suvalence work
+				</description>
+			</time>	
+			<time>
+				00:04:45
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					How dose the suvalence work?
+				</description>
+			</time>				
+			<time>
+				00:06:15
+				<tag>
+					Vincent Racaniello, Nancy Tee
+				</tag>
+				<description>
+					Nancy's training
+				</description>
+			</time>				
+			<time>
+				00:07:25
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					Nancy has not been at the Lab since it started in 2009
+				</description>
+			</time>				
+			<time>
+				00:07:50
+				<tag>
+					Nancy Tee
+				</tag>
+				<description>
+					Was at Kio Thye hospital for 17 years
+				</description>
+			</time>				
+			<time>
+				00:09:25
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					How will your lab decide what to do with a new microbe?
+				</description>
+			</time>				
+			<time>
+				00:11:30
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					Bio fire panels
+				</description>
+			</time>				
+			<time>
+				00:11:45
+				<tag>
+					Nancy Tee
+				</tag>
+				<description>
+					We are not trying to be the first to assay a new virus but we start validating
+				</description>
+			</time>				
+			<time>
+				00:01:30
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					
+				</description>
+			</time>				
+			
+			
+			
+			
 		</meta>
 	</episode>	
 	<episode>
