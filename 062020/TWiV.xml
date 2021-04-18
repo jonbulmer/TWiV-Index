@@ -1839,39 +1839,587 @@
 	<episode>
 		629: Coronavirus update, pandemic sitrep
 		<meta>
-			*
+			21062020, Vincent Racaniello (), Dickson Despommier (), Alan Dove (), Daniel Griffin () and Chuck Knirsch ()
 			<links>
 				<link>
-					*
+					Dexamethasone reduces COVID-19 deaths (U Oxford) 12:42
 				</link>
 				<link>
-					*
+					Assessment of asymptomatic COVID-19 (Nature Med) 58:20
 				</link>
 				<link>
-					*
+					Age-dependent effects on SARS-CoV-2 transmission (Nature Med) 1:08:08
 				</link>
 				<link>					
-					*
+					Letters read on TWiV 629 33:21, 1:19:49
 				</link>
-				<link>					
-					*
-				</link>
-				<link>	
-					*
-				</link>
-				<link>	
-					*
-				</link>
-			</links>
 			<time>
-				00:00:00
+				00:01:00
+				<tag>
+					Daniel Griffin
+				</tag>
+				<description>
+					Working hard and looking at him self on PDS looking like he needs more sleep and sun.
+				</description>
+			</time>
+			<time>
+				00:02:00
+				<tag>
+					Daniel Griffin
+				</tag>
+				<description>
+					Covid encouters Daniel has had since the start of Covid 1735
+				</description>
+			</time>			
+			<time>
+				00:03:20
+				<tag>
+					Chuck Knirsch
+				</tag>
+				<description>
+					Experise works for doctors
+				</description>
+			</time>			
+			<time>
+				00:04:30
+				<tag>
+					Daniel Griffin 
+				</tag>
+				<description>
+					We closed the front door but left the back door open
+				</description>
+			</time>			
+			<time>
+				00:05:25
+				<tag>
+					Daniel Griffin 
+				</tag>
+				<description>
+					Under control New York
+				</description>
+			</time>			
+			<time>
+				00:05:40
+				<tag>
+					Daniel Griffin
+				</tag>
+				<description>
+					Travel infection from Florida.
+				</description>
+			</time>			
+			<time>
+				00:08:30
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					Deaths down more than case. Will there be a 2nd wave
+				</description>
+			</time>			
+			<time>
+				00:10:00
+				<tag>
+					Daniel Griffin
+				</tag>
+				<description>
+					Preporation for the vaccine
+				</description>
+			</time>			
+			<time>
+				00:11:00
 				<tag>
 					x 
 				</tag>
 				<description>
 					x
 				</description>
-			</time>
+			</time>			
+			<time>
+				00:13:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:15:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:19:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:20:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:21:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:23:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:24:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:26:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:27:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:29:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:31:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:33:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:36:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:38:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:39:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:40:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:42:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:43:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:46:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:47:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:48:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:51:00
+				<tag>
+					x 
+				</tag>
+				<description>
+					x
+				</description>
+			</time>			
+			<time>
+				00:54:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				00:56:55
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					SARS-CoV-2 could have been prevented
+				</description>
+			</time>		
+			<time>
+				00:54:00
+				<tag>
+					Vincent Racaniello, Paper
+				</tag>
+				<description>
+					Assessment of asymptomatic COVID-19 (Nature Med) 
+				</description>
+			</time>	
+			<time>
+				01:01:50
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					 20% PCR posative that are asymptomatic
+				</description>
+			</time>	
+			<time>
+				01:05:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:09:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:13:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:15:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:18:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:20:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:26:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:27:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:30:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:33:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:37:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:38:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:39:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:42:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:45:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:46:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:48:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:51:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:52:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:53:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:56:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				01:58:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				02:02:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				02:04:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				02:05:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				02:08:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				02:10:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>	
+			<time>
+				02:13:00
+				<tag>
+					
+				</tag>
+				<description>
+					 
+				</description>
+			</time>				
 		</meta>
 	</episode>	
 	<episode>
