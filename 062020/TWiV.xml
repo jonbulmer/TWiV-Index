@@ -2863,77 +2863,113 @@
 				</description>
 			</time>			
 			<time>
-				00:10:00
+				00:10:09
 				<tag>
-					x 
+					Vincent Racaniello
 				</tag>
 				<description>
-					x
+					Cellular immune response without seroconversion (medRxiv)
 				</description>
-			</time>			
+			</time>	
+			<time>
+				00:11:10
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					7 Families study all mild cases.
+				</description>
+			</time>		
+			<time>
+				00:14:30
+				<tag>
+					Brianne Barker
+				</tag>
+				<description>
+					Peptided T cell to produce interferon gamma, a few people in families negative for serology but posative for T cell
+				</description>
+			</time>				
 			<time>
 				00:19:00
 				<tag>
-					x 
+					Rich Condit
 				</tag>
 				<description>
-					x
+					How dose this effect the vaccine
 				</description>
 			</time>			
 			<time>
 				00:21:00
 				<tag>
-					x 
+					Rich Condit
 				</tag>
 				<description>
-					x
+					Non spike T cell are an important part of immunity
 				</description>
 			</time>			
 			<time>
-				00:23:00
+				00:23:20
 				<tag>
-					x 
+					Vincent Racaniello, Paper
 				</tag>
 				<description>
-					x
+					Asymtomatic people have way lower IGg than sytomatic
 				</description>
 			</time>			
 			<time>
-				00:24:00
+				00:24:05
 				<tag>
-					x 
+					Brianne Barker
 				</tag>
 				<description>
-					x
+					Not easy to do a T cell assay
 				</description>
 			</time>			
 			<time>
-				00:26:00
+				00:25:50
 				<tag>
-					x 
+					Rich Condit, Brianne Barker, Vincent Racaniello
 				</tag>
 				<description>
-					x
+					Is this like the dengue vaccine. T cells will bind to MHC, we are throwing alot into spike.
 				</description>
 			</time>			
 			<time>
-				00:28:00
+				00:28:20
 				<tag>
-					x 
+					Vincent Racaniello
 				</tag>
 				<description>
-					x
+					A lot of companies playing with spike
 				</description>
 			</time>			
 			<time>
 				00:30:00
 				<tag>
-					x 
+					Vincent Racaniello 
 				</tag>
 				<description>
-					x
+					Probability of symptoms and severe COVID-19 (aRxiv)
 				</description>
-			</time>			
+			</time>	
+			<time>
+				00:30:45
+				<tag>
+					Vincent Racaniello 
+				</tag>
+				<description>
+					Lombardy 63000 close contacts of 21000 confirmed cases 
+				</description>
+			</time>	
+			<time>
+				00:31:45
+				<tag>
+					Vincent Racaniello 
+				</tag>
+				<description>
+					 5400 possative 2800 infected 1800 serology only the rest PCR, less than 74% of all younger than 60 people where asymptomatic. 
+				</description>
+			</time>				
 			<time>
 				00:41:00
 				<tag>
@@ -3106,21 +3142,21 @@
 				</description>
 			</time>
 			<time>
-				01:52:00
+				01:52:10
 				<tag>
-					x 
+					Brianne Barker, Email
 				</tag>
 				<description>
-					x
+					Riding bikes 6 feet apart risk.
 				</description>
 			</time>
 			<time>
-				01:55:00
+				01:55:15
 				<tag>
-					x 
+					Vincent Racaniello, Email
 				</tag>
 				<description>
-					x
+					Can SARS-CoV-2 be reversed engineered
 				</description>
 			</time>			
 		</meta>		
