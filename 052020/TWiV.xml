@@ -2332,7 +2332,7 @@
 	<episode>
 		616: Singing about coronavirus
 		<meta>
-			*
+			 20052020,21052020, Vincent Racaniello (61F), Rich Condit (95F cloudy), Kathy Spindler (61F Sunny)
 			<links>
 				<link>
 					Drowning in COVID-19 papers (Science) 2:30
@@ -2366,48 +2366,57 @@
 				</link>				
 			</links>		
 			<time>
-				00:00:00
+				00:02:00
 				<tag>
-					x 
+					Kathy Spindler
 				</tag>
 				<description>
-					x
+					Picture of a wave
 				</description>
 			</time>
 			<time>
-				00:03:00
+				00:02:30
 				<tag>
-					x 
+					Kathy Spindler 
 				</tag>
 				<description>
-					x
+					Drowning in COVID-19 papers (Science), 4000 new papers last week
 				</description>
 			</time>			
 			<time>
-				00:05:00
+				00:04:54
 				<tag>
-					x 
+					Kathy Spindler 
 				</tag>
 				<description>
-					x
+					CORD-19, 2019 NCRC
+				</description>
+			</time>	
+			<time>
+				00:05:50
+				<tag>
+					Kathy Spindler 
+				</tag>
+				<description>
+					AI powered literature review, SciSight
+				</description>
+			</time>				
+			<time>
+				00:08:30
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					I look at the title and then decide
 				</description>
 			</time>			
 			<time>
-				00:09:00
+				00:11:20
 				<tag>
-					x 
+					Vincent Racaniello
 				</tag>
 				<description>
-					x
-				</description>
-			</time>			
-			<time>
-				00:11:00
-				<tag>
-					x 
-				</tag>
-				<description>
-					x
+					Trained to have a mechanisum for a paper not just an observation
 				</description>
 			</time>			
 			<time>
@@ -2620,12 +2629,21 @@
 			<time>
 				01:03:00
 				<tag>
-					x 
+					Rich Condit
 				</tag>
 				<description>
-					x
+					John Ioannidis, If you think this is over blown you are looking at 1 to 3 million deaths in the US. A dangous source.
 				</description>
-			</time>			
+			</time>	
+			<time>
+				01:06:10
+				<tag>
+					Vincent Racaniello
+				</tag>
+				<description>
+					Brisbane 100 deaths on 19th May
+				</description>
+			</time>						
 			<time>
 				01:08:00
 				<tag>
